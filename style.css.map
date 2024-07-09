@@ -42,7 +42,7 @@ body form button {
   text-align: left;
   border: none;
   outline: none;
-  transition: background-color 0.4s; 
+  transition: background-color 0.4s;
 }
 
 .active,
